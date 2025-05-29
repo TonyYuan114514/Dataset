@@ -2,8 +2,10 @@
 下载并安装Git(https://git-scm.com/)
 下载并安装Git-FLS(https://git-lfs.com/)
 打开Git Bash
-# 克隆整个仓库
+# 克隆仓库
 git clone https://github.com/TonyYuan114514/Dataset.git
+
+# 打开仓库
 cd Dataset
 
 # 确保已安装 Git LFS
@@ -12,4 +14,5 @@ git lfs install
 # 拉取所有文件
 git lfs pull
 
-(默认下载路径会保存在C:/用户/你的用户名/Dataset)
+默认下载路径会保存在C:/用户/你的用户名/Dataset
+
